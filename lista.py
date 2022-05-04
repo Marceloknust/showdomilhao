@@ -412,8 +412,8 @@ a) Abelha
 b) Barata
 c) Carrapato
 d) Pulga
-e) Barbeiro,
-           
+e) Barbeiro""",
+                 
 ]
 
 listaResposta = ["b","c","c","a","e","b","b","c","d","a","d","e","a","b","b","d","c","e","c","e","e","a","b","e","a","d","d","b","a","a","a","c","a","b","e","b","a","e","c","c","a","c","e","b","a","d","a","e","c","c",e,]
